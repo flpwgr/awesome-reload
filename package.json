@@ -1,0 +1,20 @@
+{
+  "name": "awesome-reload",
+  "version": "1.0.0",
+  "description": "Reload your page.. with style.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flpwgr/awesome-reload.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flpwgr/awesome-reload/issues"
+  },
+  "homepage": "https://github.com/flpwgr/awesome-reload#readme"
+}
