@@ -1,5 +1,5 @@
 # awesome-reload
-Reload your page.. with style.
+Reload your page.. web3 style.
 
 ```
 import reload from 'awesome-reload';
